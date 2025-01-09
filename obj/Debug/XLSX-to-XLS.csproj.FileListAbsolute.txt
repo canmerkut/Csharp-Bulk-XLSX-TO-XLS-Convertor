@@ -1,0 +1,7 @@
+C:\Users\ercan.baguc\Desktop\source\XLSX-to-XLS\bin\Debug\XLSX-to-XLS.exe.config
+C:\Users\ercan.baguc\Desktop\source\XLSX-to-XLS\bin\Debug\XLSX-to-XLS.exe
+C:\Users\ercan.baguc\Desktop\source\XLSX-to-XLS\bin\Debug\XLSX-to-XLS.pdb
+C:\Users\ercan.baguc\Desktop\source\XLSX-to-XLS\obj\Debug\XLSX-to-XLS.csproj.AssemblyReference.cache
+C:\Users\ercan.baguc\Desktop\source\XLSX-to-XLS\obj\Debug\XLSX-to-XLS.csproj.CoreCompileInputs.cache
+C:\Users\ercan.baguc\Desktop\source\XLSX-to-XLS\obj\Debug\XLSX-to-XLS.exe
+C:\Users\ercan.baguc\Desktop\source\XLSX-to-XLS\obj\Debug\XLSX-to-XLS.pdb
